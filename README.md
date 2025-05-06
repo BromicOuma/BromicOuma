@@ -49,8 +49,8 @@ I'm currently enrolled in the **ALX Pro Dev Backend Software Engineering** progr
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bromicouma&show_icons=true&theme=radical&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bromicouma&theme=radical"/>
 </p>
 
 ---
