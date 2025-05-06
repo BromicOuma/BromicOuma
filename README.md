@@ -1,23 +1,23 @@
 <h1 align="center">Hi there 👋, I'm Bromic Ouma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer+%7C;Driven+by+Code,+Fueled+by+Curiosity&center=true&width=500&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer+%7C+ALX+Pro+Dev+Learner;Driven+by+Code,+Fueled+by+Curiosity&center=true&width=500&height=45" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌟 About Me
 
-I'm currently enrolled in the **ALX Pro Dev Backend Software Engineering** program, where I'm learning to build robust, scalable, and elegant backend systems.  
+I'm currently enrolled in the **ALX Pro Dev Backend Software Engineering** program, where I'm learning to build robust, scalable, and elegant backend systems.
 
 💡 **Why I started software engineering**  
-> [Insert a short paragraph: Share your story—what sparked your interest in tech? Was it a problem you wanted to solve? A curiosity you followed? A dream you've nurtured?]
+> I’ve always been fascinated by how technology powers the world—from simple automation scripts to the backend of apps that connect millions. What sparked my journey into backend engineering was a desire to solve real-world problems using code, especially by making complex systems simple and efficient behind the scenes.
 
 🎯 **My Vision**  
-> [Insert your vision: What kind of developer do you want to become? What impact do you want to have on the world or your community through software?]
+> My aim is to become a backend specialist who builds high-performance, secure, and scalable systems that power impactful platforms in health, finance, and education. I want to use technology to improve access, equity, and opportunity—especially in underserved communities.
 
 🔥 **Projects I'm excited to work on**  
-> [Insert examples: APIs for healthcare, real-time data dashboards, fintech tools, open-source dev tools, etc.]
+> I’m particularly interested in working on RESTful APIs, microservices, data pipelines, and automation tools. I’d love to contribute to open-source developer tools, build fintech applications, and engineer smart systems for digital health solutions.
 
 ---
 
@@ -61,6 +61,7 @@ I'm currently enrolled in the **ALX Pro Dev Backend Software Engineering** progr
 - Building production-ready **Dockerized APIs**
 - Architecting **asynchronous microservices**
 - Exploring **Redis**, **PostgreSQL**, and **RabbitMQ**
+- Writing clean, maintainable, and testable code using **SOLID principles**
 
 ---
 
@@ -74,5 +75,4 @@ I'm currently enrolled in the **ALX Pro Dev Backend Software Engineering** progr
 
 ---
 
-<!-- You can add a motivational quote or final thought -->
 <p align="center"><i>"Code is not just lines — it’s potential made real."</i></p>
