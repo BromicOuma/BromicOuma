@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Bromic Ouma</h1>
+<h1 align="center">Hi there, I'm Bromic Ouma</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer+%7C+ALX+Pro+Dev+Learner;Driven+by+Code,+Fueled+by+Curiosity&center=true&width=500&height=45" alt="Typing SVG" />
@@ -6,22 +6,22 @@
 
 ---
 
-### 🌟 About Me
+### About Me
 
-I'm currently enrolled in the **ALX Pro Dev Backend Software Engineering** program, where I'm learning to build robust, scalable, and elegant backend systems.
+I'm a **Software Engineer** ,  building robust, scalable, and elegant backend systems.
 
-💡 **Why I started software engineering**  
+ **Why I started software engineering**  
 > I’ve always been fascinated by how technology powers the world—from simple automation scripts to the backend of apps that connect millions. What sparked my journey into backend engineering was a desire to solve real-world problems using code, especially by making complex systems simple and efficient behind the scenes.
 
-🎯 **My Vision**  
+ **My Vision**  
 > My aim is to become a backend specialist who builds high-performance, secure, and scalable systems that power impactful platforms in health, finance, and education. I want to use technology to improve access, equity, and opportunity—especially in underserved communities.
 
-🔥 **Projects I'm excited to work on**  
+ **Projects I'm excited to work on**  
 > I’m particularly interested in working on RESTful APIs, microservices, data pipelines, and automation tools. I’d love to contribute to open-source developer tools, build fintech applications, and engineer smart systems for digital health solutions.
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff"/>
@@ -34,15 +34,15 @@ I'm currently enrolled in the **ALX Pro Dev Backend Software Engineering** progr
 
 ---
 
-### 📂 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🧠 **Smart Task API** | A RESTful task manager API for productivity tracking | Python, FastAPI, PostgreSQL |
-| 💼 **Job Tracker CLI** | Terminal app for tracking job applications with CSV export | Python, Rich, Click |
-| 🌍 **Global Weather App** | Microservice backend for a weather aggregator | FastAPI, Redis, Docker, OpenWeatherMap API |
+|  **Smart Task API** | A RESTful task manager API for productivity tracking | Python, FastAPI, PostgreSQL |
+|  **Job Tracker CLI** | Terminal app for tracking job applications with CSV export | Python, Rich, Click |
+|  **Global Weather App** | Microservice backend for a weather aggregator | FastAPI, Redis, Docker, OpenWeatherMap API |
 
-➡️ **Check out more repositories below ⬇️**
+ **Check out more repositories below **
 
 ---
 
@@ -55,7 +55,7 @@ I'm currently enrolled in the **ALX Pro Dev Backend Software Engineering** progr
 
 ---
 
-### 🧩 What I’m Learning Right Now
+### What I’m Learning Right Now
 
 - Deep dive into **FastAPI** and **Celery**
 - Building production-ready **Dockerized APIs**
@@ -65,7 +65,7 @@ I'm currently enrolled in the **ALX Pro Dev Backend Software Engineering** progr
 
 ---
 
-### 🌍 Let's Connect
+### Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/[YourLinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
